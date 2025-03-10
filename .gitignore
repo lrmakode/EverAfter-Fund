@@ -1,0 +1,4 @@
+*.class
+/target
+src/main/java/com/mycompany/.DS_Store
+.DS_Store

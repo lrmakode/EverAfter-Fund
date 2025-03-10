@@ -183,7 +183,6 @@ public class MainFrame extends javax.swing.JFrame {
         jPanel2.add(jLabel8);
 
         nameValueLable.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        nameValueLable.setText("jLabel9");
         jPanel2.add(nameValueLable);
 
         jLabel10.setHorizontalAlignment(javax.swing.SwingConstants.TRAILING);
@@ -191,7 +190,6 @@ public class MainFrame extends javax.swing.JFrame {
         jPanel2.add(jLabel10);
 
         numberValueLabel.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        numberValueLabel.setText("jLabel11");
         jPanel2.add(numberValueLabel);
 
         jLabel12.setHorizontalAlignment(javax.swing.SwingConstants.TRAILING);
@@ -199,7 +197,6 @@ public class MainFrame extends javax.swing.JFrame {
         jPanel2.add(jLabel12);
 
         amountValueLabel.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        amountValueLabel.setText("jLabel13");
         jPanel2.add(amountValueLabel);
 
         getContentPane().add(jPanel2);

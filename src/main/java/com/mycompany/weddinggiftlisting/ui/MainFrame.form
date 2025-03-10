@@ -203,7 +203,6 @@
         <Component class="javax.swing.JLabel" name="nameValueLable">
           <Properties>
             <Property name="horizontalAlignment" type="int" value="0"/>
-            <Property name="text" type="java.lang.String" value="jLabel9"/>
           </Properties>
         </Component>
         <Component class="javax.swing.JLabel" name="jLabel10">
@@ -215,7 +214,6 @@
         <Component class="javax.swing.JLabel" name="numberValueLabel">
           <Properties>
             <Property name="horizontalAlignment" type="int" value="0"/>
-            <Property name="text" type="java.lang.String" value="jLabel11"/>
           </Properties>
         </Component>
         <Component class="javax.swing.JLabel" name="jLabel12">
@@ -227,7 +225,6 @@
         <Component class="javax.swing.JLabel" name="amountValueLabel">
           <Properties>
             <Property name="horizontalAlignment" type="int" value="0"/>
-            <Property name="text" type="java.lang.String" value="jLabel13"/>
           </Properties>
         </Component>
       </SubComponents>
